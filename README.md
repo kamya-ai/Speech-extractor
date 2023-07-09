@@ -18,7 +18,7 @@ The Silero VAD model is a state-of-the-art model that can accurately detect spee
 1. Clone the repository:
 
    ```
-   git clone https://github.com/kamyawebdesigners/speech-extractor.git
+   git clone https://github.com/kamya-ai/Speech-extractor.git
    ```
 
 2. Install the required dependencies:
